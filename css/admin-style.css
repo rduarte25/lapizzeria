@@ -1,0 +1,7 @@
+tr td textarea.campo {
+    width: 18%;
+    max-width: 18%;
+    min-height: 18%;
+    min-height: 15rem;
+    max-height: 15rem;
+}
